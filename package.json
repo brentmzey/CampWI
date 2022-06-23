@@ -26,7 +26,7 @@
     "eslint": "^7.9.0",
     "express": "^4.17.1",
     "express-session": "^1.17.1",
-    "got": "^11.6.2",
+    "got": "^11.8.5",
     "locus": "^2.0.4",
     "method-override": "^3.0.0",
     "moment": "^2.28.0",
